@@ -14,30 +14,30 @@
   <div class="container">
     <div class="inner_box">
 
-      <a class="box" href="transaction.html">
+      <a class="box" href="login.php">
         <img src="image/banking.png" alt="">
         TRANSACTION</a>
 
-      <a class="box" href="">
+      <a class="box" href="login.php">
         <img src="image/inventory.png" alt="">
         INVENTORY</a>
 
-      <a class="box" href="">
+      <a class="box" href="login.php">
         <img src="image/updated.png" alt="">
         UPDATE</a>
       
-      <a class="box" href="">
+      <a class="box" href="login.php">
         <img src="image/dashboard.png" alt="">
         DASHBOARD</a>
 
-      <a class="box" href="search.html">
+      <a class="box" href="login.php">
         <img src="image/searching.png" alt="">
         SEARCH
       </a>
 
-      <a class="box" href="index.html">
+      <a class="box" href="login.php">
         <img src="image/password.png" alt="">
-        LOG OUT</a>
+        LOG IN</a>
       
     </div>
   </div>

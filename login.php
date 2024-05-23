@@ -12,7 +12,7 @@
   </div>
   <div class="container">
     <div class="inner_box">
-      <form action="home.html">
+      <form action="home.php">
 
         <input type="text" name="Username" id="" placeholder="Username" required>
         <br>
