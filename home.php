@@ -35,7 +35,7 @@
         SEARCH
       </a>
 
-      <a class="box" href="index.php">
+      <a class="box" href="index.html">
         <img src="image/password.png" alt="">
         LOG OUT</a>
       
